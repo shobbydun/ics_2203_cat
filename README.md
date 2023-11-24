@@ -1,4 +1,10 @@
 # ics_2203_cat
 
-TODO List: Assignment – cA HTML Based To-do list with javaScript.
+Contributors:
+  KITAVI DUNCAN _ sct211-0031/20221
+  EMMY _ sct211-0010/2021
+  JORAM KIREKI _ sct211-0079/2022
+  BRIAN KIPNG'ENO _ SCT211-0078/2022
+
+TODO List: Assignment – A HTML Based To-do list with javaScript.
 
